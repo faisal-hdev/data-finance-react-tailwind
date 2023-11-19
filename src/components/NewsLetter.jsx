@@ -28,7 +28,7 @@ const NewsLetter = () => {
               Notify Me
             </button>
           </div>
-          <p className="font-center">
+          <p className="text-center">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
             accusantium{" "}
             <span className="text-[#00df9a]">minima cupiditate!</span>
